@@ -6,17 +6,14 @@
 
 这篇文章会告诉你：它们到底是什么、有什么不同、分别适合什么场景，以及你该怎么选。
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6d31a22a-c14e-4b57-85da-6881b4fdbe99" />
-
-VS.
-
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b69e2e5d-a0f3-45ea-a6c7-8b312fdd1a82" />
 
 ---
 
 ## Perplexity Comet是什么？
 
 **Comet**是[Perplexity AI](https://pplx.ai/ixkwood69619635)最近推出的开发者级AI代理平台。你可以把它想象成一个模块化的"思维链"框架——每个"单元格"（就像笔记本里的代码块）都能执行自己的任务：搜索网页、运行代码、生成摘要，甚至调用API。
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b69e2e5d-a0f3-45ea-a6c7-8b312fdd1a82" />
 
 ### 核心特点：
 
@@ -32,6 +29,8 @@ Comet的设计初衷就是处理**需要上下文和推理的复杂工作流**�
 ## ChatGPT Agent是什么？
 
 **ChatGPT Agent**是OpenAI在2025年7月中旬发布的重大升级。这些代理现在可以：
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6d31a22a-c14e-4b57-85da-6881b4fdbe99" />
 
 - **跨任务保持记忆**：不会聊着聊着就忘了你之前说过什么
 - **执行API调用**：真正能"动手"做事
