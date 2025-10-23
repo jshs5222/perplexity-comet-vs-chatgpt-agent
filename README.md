@@ -6,6 +6,12 @@
 
 这篇文章会告诉你：它们到底是什么、有什么不同、分别适合什么场景，以及你该怎么选。
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6d31a22a-c14e-4b57-85da-6881b4fdbe99" />
+
+VS.
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b69e2e5d-a0f3-45ea-a6c7-8b312fdd1a82" />
+
 ---
 
 ## Perplexity Comet是什么？
